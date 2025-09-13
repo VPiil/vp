@@ -33,7 +33,7 @@ function App() {
       <div className="timeline">
         <div className="timeline-content">
          <h3>2022</h3>
-          Äänekosken lukio.
+          Äänekosken lukio
         </div>
         
         <div className="arrow">&rarr;</div>
